@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1709845911 source:c:\users\supervision\documents\jose pablo\pila\expresion.cpp
+	"Expresion.hpp"
+	<iostream>
+	<cmath>
+	<cctype>
+
+1709845240 c:\users\supervision\documents\jose pablo\pila\expresion.hpp
+	<string>
+	"Pila.hpp"
+
+1709845240 c:\users\supervision\documents\jose pablo\pila\pila.hpp
+	"Pila.tpp"
+
+1709845916 c:\users\supervision\documents\jose pablo\pila\pila.tpp
+	"Pila.hpp"
+	<stdexcept>
+
+1709855675 source:c:\users\supervision\documents\jose pablo\pila\main.cpp
+	<iostream>
+	"Expresion.hpp"
+
+1709866649 source:c:\users\sergi\downloads\pila\main.cpp
+	<iostream>
+	"Expresion.hpp"
+
+1709868733 c:\users\sergi\downloads\pila\expresion.hpp
+	<string>
+	<iostream>
+	"Pila.hpp"
+
+1709868733 c:\users\sergi\downloads\pila\pila.hpp
+	<iostream>
+	"Pila.tpp"
+
+1709868725 c:\users\sergi\downloads\pila\pila.tpp
+	<stdexcept>
+	<iostream>
+	"Pila.hpp"
+
+1709868054 source:c:\users\sergi\downloads\pila\expresion.cpp
+	<iostream>
+	<cmath>
+	<cctype>
+	"Expresion.hpp"
+
+1709874061 source:c:\users\supervision\desktop\pila\expresion.cpp
+	<iostream>
+	<cmath>
+	<cctype>
+	"Expresion.hpp"
+
+1709873096 c:\users\supervision\desktop\pila\expresion.hpp
+	<iostream>
+	<string>
+	<cctype>
+	<cmath>
+	<sstream>
+	"Pila.hpp"
+
+1709868733 c:\users\supervision\desktop\pila\pila.hpp
+	<iostream>
+	"Pila.tpp"
+
+1709868725 c:\users\supervision\desktop\pila\pila.tpp
+	<stdexcept>
+	<iostream>
+	"Pila.hpp"
+
+1709869786 source:c:\users\supervision\desktop\pila\main.cpp
+	<iostream>
+	"Expresion.hpp"
+
